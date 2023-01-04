@@ -1,0 +1,27 @@
+segment_sources:
+  IB24EE9B1:
+    type: origin_type
+    relation: translation
+    base: 2EA3
+    lang: en
+  I927E277E:
+    type: origin_type
+    relation: translation
+    base: 9E53
+    lang: bo
+segment_pairs:
+  d93440d9264740b7b55f4b19eec01283:
+    IB24EE9B1: 6d3c989321e7490bad96cfea60025e11
+    I927E277E: 20eefd7c84754573ae1649f095d34971
+  8963e2d6f7bd43f0aded6641b2caaa20:
+    IB24EE9B1: 80b909aa1b59435681c64efb2e88e48f
+    I927E277E: 1eff3fafe80344abae4605f34cdfdac5
+  390269c7f9144aad94dd1322e943910e:
+    IB24EE9B1: 515ba8f7d65341f98886b21dfb5f4bd6
+    I927E277E: 8768de48549d4a8aade7439296f89d11
+  8a7a8a92aebf4675b823ac87c979f745:
+    IB24EE9B1: 9159601387264916b2b5c3c1c3b73362
+    I927E277E: 471a38f5b10247f2a3fd62ae6c4ce65e
+  da37bff22d244ae481b03ceff8f0aada:
+    IB24EE9B1: 6c487cfde3c84cbabe340bad756252cf
+    I927E277E: 7274ae0013d94fcfaaca23c4a9c10892
